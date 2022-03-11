@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="js/main.js"></script>
+    <Script type="text/javascript" src="js/jquery.js"></Script>
+    <link rel="stylesheet" type="text/css" href="js/bootstrap/css/bootstrap.min.css">
+    <title>Geladeira</title>
+</head>
+<body>
+    <nav class="navbar navbar-light bg-dark">
+        <a class="navbar-brand text-white" style="margin-left: 20px" >Minha Geladeira</a>
+            <div class="d-flex">
+              <button class="btn btn-outline-success" style="margin-right: 20px" onclick="geladeiraAberta()">Abrir Geladeira</button>
+              <button class="btn btn-outline-success" style="margin-right: 20px" onclick="geladeiraFechada()">Fechar Geladeira</button>
+              <button class="btn btn-outline-success" style="margin-right: 20px" onclick="addProduto()">Adicionar Produtos</button>
+              <button class="btn btn-outline-success" style="margin-right: 20px" onclick="retiraProduto()">Retirar Produtos</button>
+            </div>
+      </nav>
+    
+      <div class="container gelAberta" style="align-items: center">
+          <img id="gelAberta" style="margin-top: 50px" src="img/geladeiraaberta.png">
+      </div>
+      <div class="container gelFechada" style="align-items: center">
+        <img id="gelFechada" style="margin-top: 50px" src="img/geladeirafechada.png">
+    </div>
+<script>geladeiraFechada()</script>
+</body>
+</html>
