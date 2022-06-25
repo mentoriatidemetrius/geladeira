@@ -1,1 +1,3 @@
-Todos os requisitos levantados pelo Grupo
+Todos os requisitos levantados pelo Grupo 
+
+1 - A geladeira deve informar todos os produtos em seu interior

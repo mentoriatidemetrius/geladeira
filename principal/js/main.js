@@ -21,7 +21,12 @@ alert("A geladeira já está Fechada!");
 }
 
 function addProduto(){
-    alert("Não tem nenhum Produto Cadastrado!");
+
+    alert("Selecione um produto para adicionar!"); 
+    $(".gelAberta").show();
+    $(".gelFechada").hide();
+    alerta = true;
+    
 
 }
 
