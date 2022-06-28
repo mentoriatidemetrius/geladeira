@@ -2,8 +2,9 @@
 Projeto Geladeira Inteligente
 
 
-A idéia é definir com os demais colegas da mentoria organizada pelo demétrius, definir-mos 
-primero os requisitos funcionais e não funcionais.
-após chegarmos a um conceito de qual modelo e como faremos, vamos trabalhar com os colegas
+A idï¿½ia ï¿½ definir com os demais colegas da mentoria organizada pelo demï¿½trius, definir-mos 
+primero os requisitos funcionais e nï¿½o funcionais.
+apï¿½s chegarmos a um conceito de qual modelo e como faremos, vamos trabalhar com os colegas
 no mesmo projeto e desenvolver um projeto geladeira.
+Adicionanando novas imagens ao projeto
 
